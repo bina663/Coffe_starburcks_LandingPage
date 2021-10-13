@@ -1,5 +1,5 @@
-let thumb_one = 'rgb(71, 114, 57)';
-let thumb_two = 'rgb(147, 56, 109)';
+let thumb_one = 'rgb(107, 150, 93)';
+let thumb_two = 'rgb(181, 92, 144)';
 let thumb_tree = 'rgb(227, 174, 168)';
 let circle = document.getElementById('circle');
 let div = document.getElementById('divimg');
